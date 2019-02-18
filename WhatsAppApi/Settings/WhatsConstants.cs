@@ -39,7 +39,7 @@ namespace WhatsAppApi.Settings
 		//public const string WhatsAppVer = "2.13.21";
         //public const string WhatsAppVer = "2.12.440";
         //public const string WhatsAppVer = "2.12.556";
-	public const string WhatsAppVer = "2.16.148";
+	public const string WhatsAppVer = "2.18.287";
 	
         /// <summary>
         /// The port that needs to be connected to
@@ -55,19 +55,20 @@ namespace WhatsAppApi.Settings
         /// <summary>
         /// manufacturer
         /// </summary>
-        public const string Manufacturer = "Xiaomi";
+        public const string Manufacturer = "BLU";
 
         /// <summary>
         /// OS Version
         /// </summary>
-        public const string OS_Version = "4.3";
+        public const string OS_Version = "6.0";
 
         /// <summary>
         /// The useragent used for http requests
         /// </summary>
 		//public const string UserAgent = "WhatsApp/2.13.21 S40Version/14.26 Device/Nokia302";
         //public const string UserAgent = "WhatsApp/2.12.440 Android/4.3 Device/Xiaomi-HM_1SW";
-        public const string UserAgent = "WhatsApp/2.16.148 Android/4.3 Device/Xiaomi-HM_1SW";
+        //public const string UserAgent = "WhatsApp/2.16.148 Android/4.3 Device/Xiaomi-HM_1SW";
+        public const string UserAgent = "WhatsApp/2.18.287 Android/6.0 Device/BLU-Studio_G_HD_LTE";
 
 
         #endregion
